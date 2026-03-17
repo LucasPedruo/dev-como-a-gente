@@ -74,3 +74,13 @@ Gerar conteúdo humano e estratégico sobre carreira em tecnologia, com profundi
 - Que tipo de profissional de tecnologia vai se destacar nos próximos 10 anos?
 - Que tipo de comportamento você observa em pessoas que vão longe na tecnologia?
 - O que na sua trajetória mostra que você é, no fim das contas, apenas um dev como a gente?
+
+## Convidados
+
+- Carlos - Tech Lead Nu
+- Lyssa - Senior Gringa
+- Matheus Braz - Pleno Meli
+- Eduardo - Seniro Santander
+- Bernardo - CTO VVS
+- Wellisson - Pleno VVS
+- Dev Fortin - Senior Itau
