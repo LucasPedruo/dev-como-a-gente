@@ -74,6 +74,7 @@ Gerar conteúdo humano e estratégico sobre carreira em tecnologia, com profundi
 - Que tipo de profissional de tecnologia vai se destacar nos próximos 10 anos?
 - Que tipo de comportamento você observa em pessoas que vão longe na tecnologia?
 - O que na sua trajetória mostra que você é, no fim das contas, apenas um dev como a gente?
+- O que você faz, alem da tecnologia que te da prazer?
 
 ## Convidados
 
